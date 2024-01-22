@@ -1,8 +1,8 @@
 [
   {
     "entityRef": {
-      "kind": "api",
-      "name": "hello-world"
+      "kind": "component",
+      "name": "kube-prom"
     },
     "scorePercent": 50,
     "scoreLabel": "Yellow",
