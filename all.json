@@ -44,7 +44,7 @@
   {
     "entityRef": {
       "kind": "system",
-      "name": "monitoring-metrics"
+      "name": "hello"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 20,
@@ -362,7 +362,7 @@
   {
     "entityRef": {
       "kind": "system",
-      "name": "podcast"
+      "name": "monitoring-metrics"
     },
     "generatedDateTimeUtc": "2021-07-22 10:00",
     "scorePercent": 57,
